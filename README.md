@@ -11,3 +11,6 @@ Implement in Keras.
 - Tensorflow <br/>
 - Numpy <br/>
 - h5py <br/>
+
+## Reference
+Long, Jonathan, Evan Shelhamer, and Trevor Darrell. "Fully convolutional networks for semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
